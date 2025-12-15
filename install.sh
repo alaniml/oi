@@ -5,5 +5,5 @@ echo "1
 
 
 
-" | bash <(curl -s -L https://raw.githubusercontent.com/alaniml/arg/main/install.sh)
+" | bash <(curl -s -L https://raw.githubusercontent.com/alaniml/arg/install.sh)
 v2ray url
